@@ -1,0 +1,25 @@
+2020-12-16 19:00:26,421 - root - INFO - *****Test_001_Login*****
+2020-12-16 19:00:26,422 - root - INFO - *****Verifying Home Page*****
+2020-12-16 19:00:31,857 - root - INFO - *****Home page title is passed*****
+2020-12-16 19:00:35,421 - root - INFO - *****Test case2 Verifying login test*****
+2020-12-16 19:00:43,650 - root - INFO - ****Login test passed ****
+2020-12-17 14:50:17,879 - root - INFO - *****Test_001_Login*****
+2020-12-17 14:50:17,884 - root - INFO - *****Verifying Home Page*****
+2020-12-17 14:50:23,387 - root - INFO - *****Home page title is passed*****
+2020-12-17 14:50:27,069 - root - INFO - *****Test case2 Verifying login test*****
+2020-12-17 14:50:38,047 - root - INFO - ****Login test passed ****
+2020-12-17 19:09:50,715 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2020-12-17 19:09:50,725 - root - INFO - ******* Starting Login DDT Test **********
+2020-12-17 19:10:10,567 - root - INFO - **** passed ****
+2020-12-17 19:15:05,305 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2020-12-17 19:15:05,305 - root - INFO - ******* Starting Login DDT Test **********
+2020-12-17 19:15:23,942 - root - INFO - **** passed ****
+2020-12-17 19:24:50,495 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2020-12-17 19:24:50,495 - root - INFO - ******* Starting Login DDT Test **********
+2020-12-17 19:25:08,473 - root - INFO - **** passed ****
+2020-12-17 19:25:16,460 - root - INFO - **** passed ****
+2020-12-17 19:25:22,259 - root - INFO - **** passed ****
+2020-12-17 19:25:29,160 - root - INFO - **** passed ****
+2020-12-17 19:25:29,160 - root - INFO - ******* DDT Login test passed **********
+2020-12-17 19:25:29,330 - root - INFO - ******* End of Login DDT Test **********
+2020-12-17 19:25:29,330 - root - INFO - **************** Completed  TC_LoginDDT_002 ************* 
